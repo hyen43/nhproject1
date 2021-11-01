@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "webpack-dev-server --progress --mode development",
+    "build": "webpack --progress --mode production"
+  }
+}
